@@ -1,6 +1,1 @@
-you have to build a perfect time table generator which builds a well structured time table from the all required inputs. 
-here are the details about all the input data which must be included:
-semester, semester start-end date, working days, slots of all fixed lectures/lab/electivefor all days across the week, max classes, total rooms and their number, total labs and their number, total classes and their batches, subjects, total hours of subject per week, faculties-their name,teaching subjects, their maximum working hours per week, free lectures and all other remaining important data.
-
-user must select all these details and then it will provide a well structured Class wise timetable in a table format with days,time slot, faculty name,subject, lecture/lab name, room number.
-all data should work properly and can be directly implemented in the scheduled timetable after clicking on "generate timetable". ui should be user friendly and minimalistic. data should be properly stored in local storage so it can work without backend. no need for login and all, just a normal page like a tool to generate academic timetables.
+SIH
